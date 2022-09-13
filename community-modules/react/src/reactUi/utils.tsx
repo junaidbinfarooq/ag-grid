@@ -41,3 +41,15 @@ export const isComponentStateless = (Component: any) => {
             typeof Component === 'function' && !(Component.prototype && Component.prototype.isReactComponent)
         ) || (typeof Component === 'object' && Component.$$typeof === getMemoType());
 }
+
+export const escapeToString = (value: any): string | null => {
+    if (value == null) {
+        return null;
+    }
+
+    if (typeof value === 'string') {
+        return value;
+    }
+
+    return escapeToString(value.toString());
+}
