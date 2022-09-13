@@ -3533,7 +3533,7 @@
   },
   "Callback": {
     "meta": { "isTypeAlias": true },
-    "type": "(params: { count: number; }) => void"
+    "type": "(params: { count: number; }) => Promise<void> | void"
   },
   "OnSizeChange": {
     "meta": { "isTypeAlias": true },
