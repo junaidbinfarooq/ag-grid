@@ -47,6 +47,7 @@ export abstract class ChartProxy {
     protected readonly standaloneChartType: ChartSeriesType;
 
     protected chart: Chart;
+    protected chartContainer: HTMLElement;
     protected chartOptions: AgChartThemeOverrides;
     protected chartTheme: ChartTheme;
     protected crossFiltering: boolean;
@@ -70,6 +71,7 @@ export abstract class ChartProxy {
         this.chartTheme = this.createChartTheme();
         this.chartOptions = this.convertConfigToOverrides(this.chartTheme.config);
         this.chartPalette = this.chartTheme.palette;
+        this.chartContainer = chartProxyParams.parentElement;
     }
 
     public abstract crossFilteringReset(): void;
@@ -93,6 +95,10 @@ export abstract class ChartProxy {
 
     public getChart(): Chart {
         return this.chart;
+    }
+
+    public getChartContainer(): HTMLElement {
+        return this.chartContainer;
     }
 
     private createChartTheme(): ChartTheme {
