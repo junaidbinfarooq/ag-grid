@@ -524,7 +524,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -862,7 +862,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -1461,7 +1461,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -1756,7 +1756,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -1993,7 +1993,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -2419,7 +2419,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -2985,7 +2985,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -3240,7 +3240,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -3483,7 +3483,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -3725,7 +3725,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -3961,7 +3961,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -4240,7 +4240,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -4522,7 +4522,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -4819,7 +4819,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -5071,7 +5071,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -6178,7 +6178,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -6327,7 +6327,7 @@ Object {
 exports[`prepare #prepareOptions for MARKET_INDEX_TREEMAP_GRAPH_EXAMPLE it should prepare options as expected 1`] = `
 Object {
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -6570,7 +6570,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -6870,7 +6870,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -7157,7 +7157,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -7462,7 +7462,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -7920,7 +7920,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -8078,7 +8078,7 @@ exports[`prepare #prepareOptions for SIMPLE_DOUGHNUT_CHART_EXAMPLE it should pre
 Object {
   "autoSize": true,
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -8320,7 +8320,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -8560,7 +8560,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -8779,7 +8779,7 @@ exports[`prepare #prepareOptions for SIMPLE_PIE_CHART_EXAMPLE it should prepare 
 Object {
   "autoSize": true,
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -9020,7 +9020,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -9257,7 +9257,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -9562,7 +9562,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -9841,7 +9841,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
@@ -10141,7 +10141,7 @@ Object {
     },
   ],
   "background": Object {
-    "fill": "white",
+    "fill": "black",
     "visible": true,
   },
   "container": Any<HTMLElement>,
