@@ -193,7 +193,7 @@ export class ChartTheme {
         return {
             background: {
                 visible: true,
-                fill: 'white',
+                fill: 'black',
             },
             padding: {
                 top: 20,
